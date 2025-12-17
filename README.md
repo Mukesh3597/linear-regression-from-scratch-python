@@ -1,4 +1,4 @@
-# Linear Regression from Scratch in Python
+<img width="595" height="413" alt="image" src="https://github.com/user-attachments/assets/dc1b6240-b0ff-4efd-95ad-b79cad9cfefc" /># Linear Regression from Scratch in Python
 
 ## 📌 Project Overview
 This project demonstrates the complete implementation of **Linear Regression from scratch using Python**, without relying on built-in machine learning models. The goal is to understand the internal working of linear regression, gradient descent, and loss functions.
@@ -30,3 +30,7 @@ This project demonstrates the complete implementation of **Linear Regression fro
 - Loss curve comparison
 
 ## 📁 Project Structure
+linear-regression-from-scratch-python/
+│
+├── Untitled25.ipynb # Jupyter notebook with full implementation
+├── README.md # Project documentation
